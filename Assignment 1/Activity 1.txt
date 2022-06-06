@@ -1,3 +1,4 @@
+Start
 Get out a plate, bread, ham, and cheese  
 Open bread bag
 Take out two slices of bread
@@ -14,3 +15,4 @@ Close the cheese
 Place the plain slice of bread onto the one with the ham and cheese
 Cut sandwich in half if desired
 Put away bread, ham, and cheese
+Stop.
